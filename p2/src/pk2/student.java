@@ -8,7 +8,7 @@ public class student {
 		// TODO Auto-generated method stub
 		teacher t= new teacher();
 		t.method2();
-		int a=10;
+		int a=1;
 		//student obj= new student();
 
 
